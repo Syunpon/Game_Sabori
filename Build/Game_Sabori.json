@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Game_Sabori.data.unityweb",
+"asmCodeUrl": "Game_Sabori.asm.code.unityweb",
+"asmMemoryUrl": "Game_Sabori.asm.memory.unityweb",
+"asmFrameworkUrl": "Game_Sabori.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
